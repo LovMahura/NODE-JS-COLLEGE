@@ -1,0 +1,5 @@
+/*
+Commands :
+>>> npm init and ENTER - 2 to reach out to the last
+>>> then come to index.js
+*/

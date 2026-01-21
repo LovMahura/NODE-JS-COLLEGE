@@ -6,6 +6,7 @@ if same, print output as "yes it is palindrome"
 if not, print output as "no palindrome"
 to print in js, you need console.log()
 */
+
 let str = "Hello"
 let reverse = ""
 for(let i = str.length-1; i>=0; i--){
